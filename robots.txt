@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://ran-zhu.github.io/sitemap.xml
