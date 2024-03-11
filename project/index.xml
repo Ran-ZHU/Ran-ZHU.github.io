@@ -2,58 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Ran&#39;s homepage</title>
-    <link>https://ran-zhu.github.io/project/</link>
-      <atom:link href="https://ran-zhu.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ran-zhu.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>https://ran-zhu.github.io/project/</link>
+      <link>/project/</link>
     </image>
     
     <item>
-      <title>Visual Odometry</title>
-      <link>https://ran-zhu.github.io/project/project3/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://ran-zhu.github.io/project/project3/</guid>
-      <description>&lt;p&gt;To build an intelligent robotic positioning system that can more efficiently deal with the traditional SLAM problems such as camera calibration, monocular scale ambiguity, we explore a novel strategy for performing visual ego-motion estimation based on deep learning. Here, we extend the model into four branches focusing on pixels movement in different directions in the optical flow and then regress the global feature concatenated from the four outputs to obtain F2F motion estimation. In particular, features extracted by each branch have been distilled by using the attention mechanism to refine estimation. Experiments on the KITTI and Malaga benchmark datasets demonstrate that the proposed model outperforms state-of-the-art monocular methods by a large margin and produces competitive results against the classic stereo VO algorithm, which also highlights its promising generalization ability.&lt;/p&gt;
-</description>
+      <title>External Project</title>
+      <link>/project/external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/external-project/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Loop Closure Detection</title>
-      <link>https://ran-zhu.github.io/project/project4/</link>
-      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://ran-zhu.github.io/project/project4/</guid>
-      <description>&lt;p&gt;Loop Closure Detection (LCD), considered a key optimization part in the visual SLAM system, aims to recognize the places where a mobile robot previously visited. Correct loop closure detection benefits visual SLAM systems a lot because it can significantly reduce the position errors that accumulate over time. It enables the system to build a consistent map of the environment. We introduce the adaptive weighted similarity matrix by combining the feature extraction module and similarity measurement module to focus on changing appearance over time. Experiments on three typical open datasets are conducted to verify the feasibility of the proposed model.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Visual Inertial Map Matching</title>
-      <link>https://ran-zhu.github.io/project/project5/</link>
-      <pubDate>Sat, 14 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://ran-zhu.github.io/project/project5/</guid>
-      <description>&lt;p&gt;This work focuses on map-based deployment-independent indoor positioning. Due to the fact that most existing map matching methods rely on the external information of prior site survey or initial positions provided by users, we explore a novel strategy for performing deployment-independent indoor positioning without considering start points. Here, we adopt easily accessible information such as floor plan and real-time video captured by smartphones to determine the location of the pedestrian for the following tracking.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Zero Velocity Detection</title>
-      <link>https://ran-zhu.github.io/project/project2/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://ran-zhu.github.io/project/project2/</guid>
-      <description>&lt;p&gt;Based on the fundamentals of human bipedal motion, Zero Velocity Update (ZUPT) is a pervasive approach in Pedestrian dead reckoning (PDR) to tackle the accumulated error of IMU. The key to ZUPT is precise zero velocity detection that distinguishes the stationary phase from each stride. Besides, due to the complex differences in pedestrian motion patterns, the hope is that the zero velocity detector becomes robust for various individuals. We present a novel approach leveraging deep learning (DL) to detect zero velocity adaptively. Trained by massive foot-mounted IMU data from different individuals, the symmetrical Recurrent Convolutional Neural Network (RCNNs) can effectively learn the gait law because the model takes the information from forward to backward of the undetermined time instant into consideration.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Human Activity Recognition</title>
-      <link>https://ran-zhu.github.io/project/project1/</link>
-      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://ran-zhu.github.io/project/project1/</guid>
-      <description>&lt;p&gt;The proliferation of smartphones has significantly facilitated people’s life, and diverse and powerful embedded sensors make the smartphone a ubiquitous platform to acquire and analyze data, which also provides great potential for efficient human activity recognition. We propose a learning-based ensemble model to improve the recognition accuracy of human activities, especially those that are easily confused. In order to make the model more robust and generalized, a huge amount of motion data, including 100 participants aging from 12 to 51, is collected using ordinary smartphones at a sampling rate of 50Hz. This dataset contains 7 motion modes in 4 smartphone placements under 2 different collection platforms (IOS and Android).&lt;/p&gt;
+      <title>Internal Project</title>
+      <link>/project/internal-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/internal-project/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
 </description>
     </item>
     
