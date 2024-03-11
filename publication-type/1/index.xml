@@ -2,21 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 | Ran&#39;s homepage</title>
-    <link>https://ran-zhu.github.io/publication-type/1/</link>
-      <atom:link href="https://ran-zhu.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <link>/publication-type/1/</link>
+      <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 11 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ran-zhu.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
-      <link>https://ran-zhu.github.io/publication-type/1/</link>
+      <link>/publication-type/1/</link>
     </image>
     
     <item>
+      <title>FedNaWi: Selecting the Befitting Clients for Robust Federated Learning in IoT Applications</title>
+      <link>/publication/project2/</link>
+      <pubDate>Mon, 11 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/project2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Deep Ensemble Learning for Human Activity Recognition Using Smartphone</title>
-      <link>https://ran-zhu.github.io/publication/project7/</link>
+      <link>/publication/project7/</link>
       <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://ran-zhu.github.io/publication/project7/</guid>
+      <guid>/publication/project7/</guid>
       <description></description>
     </item>
     

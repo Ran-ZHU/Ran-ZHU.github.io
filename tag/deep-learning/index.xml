@@ -2,32 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deep Learning | Ran&#39;s homepage</title>
-    <link>https://ran-zhu.github.io/tag/deep-learning/</link>
-      <atom:link href="https://ran-zhu.github.io/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/deep-learning/</link>
+      <atom:link href="/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Deep Learning</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ran-zhu.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Deep Learning</title>
-      <link>https://ran-zhu.github.io/tag/deep-learning/</link>
+      <link>/tag/deep-learning/</link>
     </image>
     
     <item>
-      <title>ContextAVO: Local Context Guided and Refining Poses for Deep Visual Odometry</title>
-      <link>https://ran-zhu.github.io/preprint/contextavo/</link>
-      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://ran-zhu.github.io/preprint/contextavo/</guid>
-      <description>&lt;h2 id=&#34;abstract&#34;&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;Learning-based monocular visual odometry (VO) has lately drawn significant attention for its potential in robustness to camera parameters and environmental variations. Different from most current learning-based methods, the proposed approach focuses on the effectiveness of local context and takes consecutive multiple optical flow sequences as the input. This paper presents a novel VO framework, called ContextAVO, which incorporates two additional components called Context-Attention Refining and flexible-length window. The Context-Attention Refining component ameliorates current inference using local dynamic context observation to guide motion estimation. The flexiblelength window considers the different receptive field sizes of the input to alleviate the severe dependence on the sequence length. Extensive experiments on the KITTI, Malaga, and ApolloScape benchmark datasets have demonstrated that the proposed method produces competitive results against the classic stereo VO algorithm and outperforms the state-of-the-art monocular methods by up to 23.18% and 47.55% for translational and rotational estimation, respectively.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Human Activity Recognition</title>
-      <link>https://ran-zhu.github.io/project/project1/</link>
-      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://ran-zhu.github.io/project/project1/</guid>
-      <description>&lt;p&gt;The proliferation of smartphones has significantly facilitated people’s life, and diverse and powerful embedded sensors make the smartphone a ubiquitous platform to acquire and analyze data, which also provides great potential for efficient human activity recognition. We propose a learning-based ensemble model to improve the recognition accuracy of human activities, especially those that are easily confused. In order to make the model more robust and generalized, a huge amount of motion data, including 100 participants aging from 12 to 51, is collected using ordinary smartphones at a sampling rate of 50Hz. This dataset contains 7 motion modes in 4 smartphone placements under 2 different collection platforms (IOS and Android).&lt;/p&gt;
+      <title>Internal Project</title>
+      <link>/project/internal-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/internal-project/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
 </description>
     </item>
     

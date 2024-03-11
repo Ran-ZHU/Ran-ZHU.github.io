@@ -1,210 +1,145 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://ran-zhu.github.io/publication-type/3/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ran-zhu.github.io/preprint/contextavo/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ran-zhu.github.io/tag/deep-learning/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ran-zhu.github.io/preprint/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ran-zhu.github.io/publication_types/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ran-zhu.github.io/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ran-zhu.github.io/tags/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ran-zhu.github.io/tag/visual-odometry/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ran-zhu.github.io/tag/map-matching/</loc>
-    <lastmod>2021-06-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ran-zhu.github.io/tag/pdr/</loc>
-    <lastmod>2021-06-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ran-zhu.github.io/preprint/map/</loc>
-    <lastmod>2021-06-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ran-zhu.github.io/publication-type/2/</loc>
+    <loc>/courses/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>/courses/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/courses/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>/talk/example/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2023-12-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/</loc>
+    <lastmod>2023-12-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/project1/</loc>
+    <lastmod>2023-12-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2023-12-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2023-12-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/ran-zhu-maxim-van-den-abeele-jona-beysens-jie-yang-and-qing-wang/</loc>
+    <lastmod>2023-12-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication-type/1/</loc>
+    <lastmod>2023-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/project2/</loc>
+    <lastmod>2023-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/ran-zhu-mingkun-yang-jie-yang-and-qing-wang/</loc>
+    <lastmod>2023-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/project3/</loc>
+    <lastmod>2023-02-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/song-rujun-ran-zhu-zhuoling-xiao-and-bo-yan/</loc>
+    <lastmod>2023-02-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/project6/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ran-zhu.github.io/authors/</loc>
+  </url><url>
+    <loc>/author/mingkun-yang-ran-zhu-zhuoling-xiao-bo-yan/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ran-zhu.github.io/publication/project4/</loc>
+  </url><url>
+    <loc>/author/ran-zhu-mingkun-yang-wang-liu-rujun-song-zhuoling-xiao-bo-yan/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ran-zhu.github.io/author/mingkun-yang-ran-zhu-zhuoling-xiao-bo-yan/</loc>
+  </url><url>
+    <loc>/tag/source-themes/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ran-zhu.github.io/publication/</loc>
+  </url><url>
+    <loc>/publication/project5/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ran-zhu.github.io/author/ran-zhu-mingkun-yang-wang-liu-rujun-song-zhuoling-xiao-bo-yan/</loc>
+  </url><url>
+    <loc>/tags/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ran-zhu.github.io/tag/source-themes/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ran-zhu.github.io/publication/project3/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ran-zhu.github.io/tag/image-matching/</loc>
-    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ran-zhu.github.io/tag/intelligent-recognition/</loc>
-    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ran-zhu.github.io/preprint/metricnet/</loc>
-    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ran-zhu.github.io/tag/mobile-robotics/</loc>
-    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ran-zhu.github.io/project/</loc>
-    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ran-zhu.github.io/project/project3/</loc>
-    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ran-zhu.github.io/project/project4/</loc>
-    <lastmod>2019-09-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ran-zhu.github.io/tag/pedestrian-positioning/</loc>
-    <lastmod>2019-09-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ran-zhu.github.io/project/project5/</loc>
-    <lastmod>2019-09-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ran-zhu.github.io/project/project2/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ran-zhu.github.io/publication/project2/</loc>
+  </url><url>
+    <loc>/post/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/writing-technical-content/</loc>
+    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/project4/</loc>
     <lastmod>2019-06-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ran-zhu.github.io/project/project1/</loc>
+  </url><url>
+    <loc>/author/ran-zhu-zhuoling-xiao-ying-li-mingkun-yang-yawen-tan-liang-zhou-shuisheng-lin-hongkai-wen/</loc>
     <lastmod>2019-06-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ran-zhu.github.io/author/ran-zhu-zhuoling-xiao-ying-li-mingkun-yang-yawen-tan-liang-zhou-shuisheng-lin-hongkai-wen/</loc>
-    <lastmod>2019-06-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ran-zhu.github.io/slides/</loc>
+  </url><url>
+    <loc>/courses/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>/author/admin/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/jupyter/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ran-zhu.github.io/slides/example/</loc>
+  </url><url>
+    <loc>/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ran-zhu.github.io/publication-type/1/</loc>
+  </url><url>
+    <loc>/publication/project7/</loc>
     <lastmod>2018-11-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ran-zhu.github.io/publication/project7/</loc>
+  </url><url>
+    <loc>/author/ran-zhu-zhuoling-xiao-mo-cheng-liang-zhou-bo-yan-shuisheng-lin-hongkai-wen/</loc>
     <lastmod>2018-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/demo/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/external-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/internal-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/academic/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/getting-started/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/category/demo/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/%E5%BC%80%E6%BA%90/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/category/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/ran-zhu-%E6%9C%B1%E7%84%B6/</loc>
   </url>
-  
-  <url>
-    <loc>https://ran-zhu.github.io/author/ran-zhu-zhuoling-xiao-mo-cheng-liang-zhou-bo-yan-shuisheng-lin-hongkai-wen/</loc>
-    <lastmod>2018-11-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ran-zhu.github.io/awards/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ran-zhu.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ran-zhu.github.io/post/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ran-zhu.github.io/author/ran-zhu-%E6%9C%B1%E7%84%B6/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ran-zhu.github.io/talk/</loc>
-  </url>
-  
 </urlset>
