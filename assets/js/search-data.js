@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-awards",
-          title: "awards",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/awards/";
-          },
         },{id: "nav-services",
           title: "services",
           description: "",
@@ -35,7 +28,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/assets/my_cv.pdf";
+            window.location.href = "/assets/pdf/my_cv.pdf";
           },
         },{id: "post-a-post-with-image-galleries",
       
